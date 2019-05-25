@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![I'm Ron Burgundy](https://www.thewrap.com/wp-content/uploads/2018/12/WillFerrellRonBurgundy.jpg)
